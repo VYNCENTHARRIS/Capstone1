@@ -179,7 +179,7 @@ function Footer() {
             <div className="row">
               <div className="col-md-8 col-sm-6 col-xs-12">
                 <p className="copyright-text">Copyright &copy; 2024 All Rights Reserved by  
-                  <a href="/">Spark</a>.
+                  <a href="/"> Spark</a>.
                 </p>
               </div>
               <div className="col-md-4 col-sm-6 col-xs-12">

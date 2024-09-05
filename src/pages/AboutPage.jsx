@@ -1,13 +1,13 @@
 import React from "react";
-// import Slider from "react-slick";
-// import "slick-carousel/slick/slick.css";
-// import "slick-carousel/slick/slick-theme.css";
+import Slider from "react-slick";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 import "../css/AboutPage.css";
-// import Ricardo from "../images/1RICARDO.png";
-// import Vyncent from "../images/1VYNCENT.png";
-// import Try from "../images/1TREMON.png";
-// import Lourdes from "../images/1LOURDES.png";
-// import Juan from "../images/1JUAN.png";
+import Ricardo from "../images/1RICARDO.png";
+import Vyncent from "../images/1VYNCENT.png";
+import Try from "../images/1TREMON.png";
+import Lourdes from "../images/1LOURDES.png";
+import Juan from "../images/1JUAN.png";
 import whatis from "../images/whatis.webp";
 
 
@@ -80,11 +80,11 @@ We firmly believe that every person possesses the capacity to make a difference,
       </section>
 
 
-      {/* <section className="stats-section stats-sections text-center py-5">
+      <section className="stats-section stats-sections text-center py-5">
         <div id="containers" className="container ">
           <h2 className="stats-title">Our Staff</h2>
           <div className="row">
-          <Slider  {...settings}
+          <Slider  {...setting}
   responsive={[
     {
       breakpoint: 576,
@@ -119,8 +119,8 @@ We firmly believe that every person possesses the capacity to make a difference,
           </Slider>
           </div>
         </div> 
-      </section> */}
-
+      </section> 
+{/* 
       <section className="stats-sections stats-section text-center py-5">
         <div className="container">
         <h3 className="stats-title">Our Staff</h3>
@@ -151,7 +151,7 @@ We firmly believe that every person possesses the capacity to make a difference,
             
           </div>
         </div>
-      </section>
+      </section> */}
 
 
 
